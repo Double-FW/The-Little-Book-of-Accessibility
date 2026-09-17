@@ -81,45 +81,45 @@ Filename suffixes such as `(1)` and `(2)` are not reliable version indicators. U
 
 | Document | Primary role |
 | --- | --- |
-| `The_Little_Book_Of_Accessibility_Thinking(1).md` | Core accessibility thinking across culture, research, design, content, engineering, auditing and organisational practice. |
-| `A Designed Experience for Everyone(2).md` | Concise statement of the collection's central inclusive design principle. |
-| `Accessibility Thinking Business Consultant(1).md` | Strategic consulting method and optional AI persona covering transformation, governance, measurement and communication. |
+| `The_Little_Book_Of_Accessibility_Thinking.md` | Core accessibility thinking across culture, research, design, content, engineering, auditing and organisational practice. |
+| `A Designed Experience for Everyone.md` | Concise statement of the collection's central inclusive design principle. |
+| `Accessibility Thinking Business Consultant.md` | Strategic consulting method and optional AI persona covering transformation, governance, measurement and communication. |
 
 ### Strategy, governance and organisational change
 
 | Document | Primary role |
 | --- | --- |
-| `Enterprise Accessibility Proactive Strategy Using POURS(1).md` | Enterprise strategy built around Perceivable, Operable, Understandable, Robust and Satisfaction outcomes. |
-| `AI‑Readiness Maturity Model for Disability Inclusion(1).md` | Five-level maturity model across leadership, data, accessibility, people, technology and safeguards. |
+| `Enterprise Accessibility Proactive Strategy Using POURS.md` | Enterprise strategy built around Perceivable, Operable, Understandable, Robust and Satisfaction outcomes. |
+| `AI‑Readiness Maturity Model for Disability Inclusion.md` | Five-level maturity model across leadership, data, accessibility, people, technology and safeguards. |
 | `7S Model Disability & Inclusion Analytics Methodology.md` | McKinsey 7S-based method for aligning disability and inclusion analytics with strategy, culture and systems. |
 | `Mapping_Accessibility_Maturity_to_an_ESG_Model.md` | Relationship between accessibility maturity, ESG performance, governance and measurable experience. |
 | `Business Case for Accessibility, Inclusive Design and Inclusive Brand Values(1).md` | Commercial, operational, workforce, brand, innovation and risk arguments for accessibility. |
-| `Executive Commitments on Disability Inclusion(1).md` | Themes and structures for credible executive commitments and disability inclusion strategies. |
-| `Accessibility_Champions & Sponsors_Framework_as_part_of_a_Change_Management_Programme(1).md` | Roles, support, training and governance for champions, sponsors and network managers. |
-| `Accessibility_in_the_Employee_Lifecycle(2).md` | Accessibility across attraction, recruitment, onboarding, work, progression and exit. |
+| `Executive Commitments on Disability Inclusion.md` | Themes and structures for credible executive commitments and disability inclusion strategies. |
+| `Accessibility_Champions & Sponsors_Framework_as_part_of_a_Change_Management_Programme.md` | Roles, support, training and governance for champions, sponsors and network managers. |
+| `Accessibility_in_the_Employee_Lifecycle.md` | Accessibility across attraction, recruitment, onboarding, work, progression and exit. |
 
 ### Design strategy and practice
 
 | Document | Primary role |
 | --- | --- |
-| `Design_Strategy(1).md` | Organisational, brand and experience framework for inclusive design strategy. |
-| `Inclusive_Design_Thinking(1).md` | Applied inclusive design principles for creative, content, communication and service decisions. |
-| `Inclusive_Design_Management(1).md` | Planning, requirements, review, trade-offs, documentation and leadership in design delivery. |
-| `Cognitive Design Principles(1).md` | Practical principles for clarity, recognition, predictability, feedback, control and reduced cognitive load. |
+| `Design_Strategy.md` | Organisational, brand and experience framework for inclusive design strategy. |
+| `Inclusive_Design_Thinking.md` | Applied inclusive design principles for creative, content, communication and service decisions. |
+| `Inclusive_Design_Management.md` | Planning, requirements, review, trade-offs, documentation and leadership in design delivery. |
+| `Cognitive Design Principles.md` | Practical principles for clarity, recognition, predictability, feedback, control and reduced cognitive load. |
 
 ### Product and interaction guidance
 
 | Document | Primary role |
 | --- | --- |
-| `Mobile First Accessibility Principles, Design Requirements and Testing Approaches(1).md` | Mobile-first requirements, implementation approaches, test procedures and outcome-based validation. |
-| `Multimodal_UX_Design(1).md` | Inclusive interaction across visual, audio, tactile and multiple input modalities on mobile, web, television and voice interfaces. |
+| `Mobile First Accessibility Principles, Design Requirements and Testing Approaches.md` | Mobile-first requirements, implementation approaches, test procedures and outcome-based validation. |
+| `Multimodal_UX_Design.md` | Inclusive interaction across visual, audio, tactile and multiple input modalities on mobile, web, television and voice interfaces. |
 | `Accessible_Games_and_other_Dynamic_Content.md` | Games, motion, timing, live updates, overlays, focus, sensory safety and multimodal feedback. |
 
 ### Organisation-specific reference
 
 | Document | Primary role |
 | --- | --- |
-| `Accessible Thinking Knowledge Base(1).md` | Public-facing profile of Accessible Thinking, including its purpose, services, research, people, brand and privacy position. Retrieve only when the organisation itself is relevant. |
+| `Accessible Thinking Knowledge Base.md` | Public-facing profile of Accessible Thinking, including its purpose, services, research, people, brand and privacy position. Retrieve only when the organisation itself is relevant. |
 
 ## Retrieval and routing guidance
 
@@ -127,17 +127,17 @@ Do not retrieve the entire collection for every task. Start with one foundationa
 
 | Task | Start with | Add when relevant |
 | --- | --- | --- |
-| General accessibility reasoning | `The_Little_Book_Of_Accessibility_Thinking(1).md` | `A Designed Experience for Everyone(2).md` |
-| Board, strategy or transformation advice | `Accessibility Thinking Business Consultant(1).md` | POURS, ESG, 7S, business case or maturity model |
-| Inclusive design strategy | `Design_Strategy(1).md` | Inclusive Design Thinking and Design Management |
-| Project planning and delivery | `Inclusive_Design_Management(1).md` | Task-specific product guidance |
-| Cognitive accessibility | `Cognitive Design Principles(1).md` | Mobile or Multimodal UX guidance |
-| Mobile design or testing | `Mobile First Accessibility Principles, Design Requirements and Testing Approaches(1).md` | Multimodal UX guidance |
+| General accessibility reasoning | `The_Little_Book_Of_Accessibility_Thinking.md` | `A Designed Experience for Everyone.md` |
+| Board, strategy or transformation advice | `Accessibility Thinking Business Consultant.md` | POURS, ESG, 7S, business case or maturity model |
+| Inclusive design strategy | `Design_Strategy.md` | Inclusive Design Thinking and Design Management |
+| Project planning and delivery | `Inclusive_Design_Management.md` | Task-specific product guidance |
+| Cognitive accessibility | `Cognitive Design Principles.md` | Mobile or Multimodal UX guidance |
+| Mobile design or testing | `Mobile First Accessibility Principles, Design Requirements and Testing Approaches.md` | Multimodal UX guidance |
 | Games, animation or dynamic UI | `Accessible_Games_and_other_Dynamic_Content.md` | Multimodal UX and mobile guidance |
-| AI governance and disability inclusion | `AI‑Readiness Maturity Model for Disability Inclusion(1).md` | Business Consultant, ESG and 7S guidance |
-| Workforce or HR | `Accessibility_in_the_Employee_Lifecycle(2).md` | Executive Commitments and Champions framework |
-| Champions network | `Accessibility_Champions & Sponsors_Framework_as_part_of_a_Change_Management_Programme(1).md` | Business Consultant and maturity material |
-| Accessible Thinking organisation query | `Accessible Thinking Knowledge Base(1).md` | Other documents only when the task also concerns methodology |
+| AI governance and disability inclusion | `AI‑Readiness Maturity Model for Disability Inclusion.md` | Business Consultant, ESG and 7S guidance |
+| Workforce or HR | `Accessibility_in_the_Employee_Lifecycle.md` | Executive Commitments and Champions framework |
+| Champions network | `Accessibility_Champions & Sponsors_Framework_as_part_of_a_Change_Management_Programme.md` | Business Consultant and maturity material |
+| Accessible Thinking organisation query | `Accessible Thinking Knowledge Base.md` | Other documents only when the task also concerns methodology |
 
 For RAG implementations:
 
@@ -150,7 +150,7 @@ For RAG implementations:
 - retrieve neighbouring chunks when a result begins with an instruction, conclusion or list whose context may sit under the preceding heading;
 - preserve traceability from generated claims to the originating document and section.
 
-The long `Multimodal_UX_Design(1).md` file contains several related knowledge blocks and repeated topic areas. Index it by its internal headings rather than as a single document, and expect overlapping retrieval results.
+The long `Multimodal_UX_Design.md` file contains several related knowledge blocks and repeated topic areas. Index it by its internal headings rather than as a single document, and expect overlapping retrieval results.
 
 ## Reasoning and response rules
 
