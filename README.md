@@ -1,4 +1,4 @@
-# The Little Book of Accessibility — 2026 Edition
+# The Little Book of Accessibility
 
 > A governed accessibility knowledge base for people, AI assistants, retrieval systems and AI-managed organisational workflows.
 
