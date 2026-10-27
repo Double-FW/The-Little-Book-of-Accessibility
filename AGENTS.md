@@ -5,7 +5,7 @@ author: "Gareth Ford Williams; Double FW Ltd"
 date: "2026-10-14"
 license: "Unspecified in repository; no licence grant is inferred"
 language: "en-GB"
-repository: "Double-FW/The-Little-Book-of-Accessibility"
+repository: "[Double-FW/The-Little-Book-of-Accessibility](https://github.com/Double-FW/The-Little-Book-of-Accessibility)"
 artifact_type: "repository_agent_instructions"
 use_case: "Guide human and AI agents using this accessibility knowledge base in design, research, delivery, governance, measurement, and organisational workflows"
 entities:
