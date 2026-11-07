@@ -42,7 +42,7 @@ All messages should be **interpretable**. An example of one type of issue is 
 
 Interpretation is key when displaying errors. The technical information is important but non-technical advice should also be included so the user knows what they should do to resolve the issue.
 
-Choose an accessible typeface too… not one that says it is “accessible”. For more information see my previous article
+Choose an accessible typeface too… not one that says it is “accessible”.
 
 ## Redundancies
 
