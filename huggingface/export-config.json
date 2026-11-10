@@ -1,0 +1,42 @@
+{
+  "source_repository": "Double-FW/The-Little-Book-of-Accessibility",
+  "destination_dataset": "GarethFW/The_Little_Book_of_Accessibility",
+  "dataset_version": "1.0.0",
+  "files": [
+    "AGENTS.md",
+    "Knowledge Base Documents/7S Model Disability & Inclusion Analytics Methodology.md",
+    "Knowledge Base Documents/A Designed Experience for Everyone.md",
+    "Knowledge Base Documents/AI‑Readiness Maturity Model for Disability Inclusion.md",
+    "Knowledge Base Documents/Accessibility Thinking Business Consultant.md",
+    "Knowledge Base Documents/Accessible Thinking Knowledge Base.md",
+    "Knowledge Base Documents/Business Case for Accessibility, Inclusive Design and Inclusive Brand Values.md",
+    "Knowledge Base Documents/Cognitive Design Principles.md",
+    "Knowledge Base Documents/Design_Strategy.md",
+    "Knowledge Base Documents/Enterprise Accessibility Proactive Strategy Using POURS.md",
+    "Knowledge Base Documents/Executive Commitments on Disability Inclusion.md",
+    "Knowledge Base Documents/Inclusive_Design_Management.md",
+    "Knowledge Base Documents/Inclusive_Design_Thinking.md",
+    "Knowledge Base Documents/Mapping_Accessibility_Maturity_to_an_ESG_Model.md",
+    "Knowledge Base Documents/Mobile First Accessibility Principles, Design Requirements and Testing Approaches.md",
+    "Knowledge Base Documents/Multimodal_Digital_Product_and_Service_Design_Guidance.md",
+    "Little_Book_Organisational_Agent_and_Workflow_Governance_Map.md",
+    "README.md",
+    "Skill-Instruction.md",
+    "The_Little_Book_Of_Accessibility_Thinking.md"
+  ],
+  "required_files": [
+    "AGENTS.md",
+    "README.md",
+    "LICENSE",
+    "The_Little_Book_Of_Accessibility_Thinking.md",
+    "Little_Book_Organisational_Agent_and_Workflow_Governance_Map.md",
+    "Skill-Instruction.md"
+  ],
+  "approved_license_sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af",
+  "default_excluded_paths": [
+    "Knowledge Base Documents/Accessible Thinking Knowledge Base.md"
+  ],
+  "organisation_specific_paths": [
+    "Knowledge Base Documents/Accessible Thinking Knowledge Base.md"
+  ]
+}
