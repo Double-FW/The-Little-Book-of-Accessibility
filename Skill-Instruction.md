@@ -3,7 +3,7 @@ title: "The Little Book of Accessibility — Agent Guidance"
 version: "1.1.0"
 author: "Gareth Ford Williams; Double FW Ltd"
 date: "2026-11-06"
-license: "Unspecified in repository; no licence grant is inferred"
+license: "MIT"
 language: "en-GB"
 description: "A practical accessibility and inclusive-design knowledge base for people and organisations, covering strategy, research, design, testing, governance, disability inclusion, and AI-assisted agent workflows. Structured for AI agents, RAG, and Skills with source-aware guidance, safeguards, and human oversight."
 repository_id: 1237977386
