@@ -9,7 +9,7 @@ artifact_type: "Practice-based knowledge base"
 use_case: "Supporting accessibility, design and engineering management"
 source_basis: "Author's lessons from managing an accessibility and inclusive design programme for 18 years; editorially expanded from the supplied knowledge base"
 revision_scope: "Internal consistency, clarity, application, evidence and knowledge-base usability; no external research or comparison against standards"
-rights: "MIT"
+rights: "MIT licence"
 ---
 
 # Little Book of Accessibility Thinking
