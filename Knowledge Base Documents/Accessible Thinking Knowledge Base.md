@@ -60,5 +60,6 @@ Accessible Thinking is UK-based and works remotely with clients everywhere. The 
 
 ## Privacy Position
 
-The site states that it does not use cookies to collect, track, or share visitor data, and does not use analytics services, advertising networks, or third-party tracking technologies. Contact form data is used to respond to enquiries, and the privacy policy states that personal details are not shared with third parties for marketing purposes.  
-Source: Privacy Policy. :contentReference[oaicite:15]{index=15}
+The [Accessible Thinking Privacy Policy](https://accessiblethinking.com/privacy/), inspected on 20 November 2026, states that the website does not use cookies for visitor tracking or analytics services, advertising networks or third-party tracking technologies. It describes local browser preferences for the cookie notice and theme, and notes that the hosting provider may log IP addresses.
+
+The policy says that contact-form submissions are handled through StaticForms to respond to enquiries, and that personal details are not shared with third parties for marketing. This is the organisation's published policy position, not an independent audit of its technical behaviour or legal compliance. Check the current policy before relying on it for a decision. This source check covers the privacy section only; other organisational statements in this document have not been independently refreshed by this maintenance change.
